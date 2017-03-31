@@ -1,4 +1,4 @@
-###LeetCode Solutions
+### LeetCode Solutions
 
 \###Algorithm
 
