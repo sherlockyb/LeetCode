@@ -1,10 +1,10 @@
-package org.sherlocky.leetcode.array.addTwoNumbers;
+package org.sherlocky.leetcode.linkedlist.addTwoNumbers;
 
 import org.junit.Before;
 import org.junit.Test;
 
 /**
- * Created by yb on 2017/3/30.
+ * Created by yangbing on 2017/3/30.
  */
 public class SolutionTest {
     private Solution solution;

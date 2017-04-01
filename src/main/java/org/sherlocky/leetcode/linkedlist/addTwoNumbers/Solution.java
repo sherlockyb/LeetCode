@@ -1,7 +1,7 @@
-package org.sherlocky.leetcode.array.addTwoNumbers;
+package org.sherlocky.leetcode.linkedlist.addTwoNumbers;
 
 /**
- * Created by yb on 2017/3/30.
+ * Created by yangbing on 2017/3/30.
  */
 class ListNode {
     int val;
