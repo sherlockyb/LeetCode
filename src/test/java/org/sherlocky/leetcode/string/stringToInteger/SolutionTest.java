@@ -36,12 +36,12 @@ public class SolutionTest {
     @Test
     public void myAtoi3() {
         String s = "-2147483649";
-        Assert.assertEquals(0, solution.myAtoi(s));
+        Assert.assertEquals(-2147483648, solution.myAtoi(s));
     }
 
     @Test
     public void myAtoi4() {
-        String s = "   010  \\n\\t";
-        Assert.assertEquals(10, solution.myAtoi(s));
+        String s = "  -01033efegeageaa fewfaa1131313";
+        Assert.assertEquals(-1033, solution.myAtoi(s));
     }
 }
