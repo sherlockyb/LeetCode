@@ -1,15 +1,11 @@
 package org.sherlocky.leetcode.linkedlist.addTwoNumbers;
 
+import org.sherlocky.leetcode.linkedlist.ListNode;
+
 /**
  * Created by yangbing on 2017/3/30.
  */
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) {
-        val = x;
-    }
-}
+
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode result = new ListNode(0);
