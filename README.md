@@ -24,4 +24,5 @@
 | 18   | [4Sum](https://leetcode.com/problems/4sum/#/description) | [Java](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/array/fourSum/Solution.java) | *O(n^3)*        | *O(n)*        | Medium     |
 | 19   | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description) | [Java](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/linkedlist/removeNthNodeFromEndofList/Solution.java) | *O(n)*          | *O(n)*        | Medium     |
 | 20   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/#/description) | [Java](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/stack/validParentheses/Solution.java) | *O(n)*          | *O(n)*        | Easy       |
+| 21   | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/#/description) | [Java](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/linkedlist/mergeTwoSortedLists/Solution.java) | *O(m+n)*        | *O(1)*        | Easy       |
 
