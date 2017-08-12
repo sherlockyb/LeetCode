@@ -2,6 +2,7 @@ package org.sherlocky.leetcode.linkedlist.addTwoNumbers;
 
 import org.junit.Before;
 import org.junit.Test;
+import org.sherlocky.leetcode.linkedlist.ListNode;
 
 /**
  * Created by yangbing on 2017/3/30.
