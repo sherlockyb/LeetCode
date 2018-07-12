@@ -14,7 +14,7 @@ For example,
 Given *n* will always be valid.
 Try to do this in one pass.
 
-#### 思路（[代码](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/linkedlist/removeNthNodeFromEndofList/Solution.java)）
+#### 思路（[代码](https://github.com/sherlockyb/LeetCode/blob/master/src/main/java/org/sherlockyb/leetcode/linkedlist/removeNthNodeFromEndofList/Solution.java)）
 
 用空间换时间，既然是倒序第n个，我自然就联想到栈结构，先顺序扫描链表逐个入栈，然后出栈并采用头插法构建链表，期间计数判断，过滤掉第n个即可。
 

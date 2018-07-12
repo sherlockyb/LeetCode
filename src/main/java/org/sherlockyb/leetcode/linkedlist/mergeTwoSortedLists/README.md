@@ -2,7 +2,7 @@
 
 Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
 
-#### 思路（[代码](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/linkedlist/mergeTwoSortedLists/Solution.java)）
+#### 思路（[代码](https://github.com/sherlockyb/LeetCode/blob/master/src/main/java/org/sherlockyb/leetcode/linkedlist/mergeTwoSortedLists/Solution.java)）
 
 常规问题，维持两个指针，同时分别扫描两个有序表，通过比较大小来决定选取哪个指针，移动哪个指针。
 
