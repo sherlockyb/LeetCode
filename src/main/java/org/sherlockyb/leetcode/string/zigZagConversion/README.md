@@ -19,7 +19,7 @@ string convert(string text, int nRows);
 
 `convert("PAYPALISHIRING", 3)` should return `"PAHNAPLSIIGYIR"`.
 
-#### 思路1（[代码](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/string/zigZagConversion/Solution.java)）
+#### 思路1（[代码](https://github.com/sherlockyb/LeetCode/blob/master/src/main/java/org/sherlockyb/leetcode/string/zigZagConversion/Solution.java)）
 
   直接从最终排列的结构中找规律：关键点——每一排中相邻两个字符在原字符串中对应下标的间隔。由于排列后，第1~nRows排的第一个字符直接就可以确定为原字符串前nRows个字符，那么得到当排的相邻字符下标间隔后，其后续字符都可根据下标依次取得，然后依次从第1~nRows排按下标取字符即可得最终结果。
 

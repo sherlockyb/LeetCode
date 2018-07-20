@@ -6,6 +6,6 @@ The brackets must close in the correct order, `"()"` and `"()[]{}"` are all vali
 
 [Subscribe](https://leetcode.com/subscribe/) to see which companies asked this question.
 
-#### 思路（[代码](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/stack/validParentheses/Solution.java)）
+#### 思路（[代码](https://github.com/sherlockyb/LeetCode/blob/master/src/main/java/org/sherlockyb/leetcode/stack/validParentheses/Solution.java)）
 
 栈结构的简单运用。

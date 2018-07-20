@@ -15,6 +15,6 @@ A solution set is:
 ]
 ```
 
-#### 思路（[代码](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/array/fourSum/Solution.java)）
+#### 思路（[代码](https://github.com/sherlockyb/LeetCode/blob/master/src/main/java/org/sherlockyb/leetcode/array/fourSum/Solution.java)）
 
 沿用[3Sum](https://github.com/sherlock-y/LeetCode/tree/master/src/main/java/org/sherlocky/leetcode/array/threeSum)的思路，只不过相对于它多了层循环嵌套。

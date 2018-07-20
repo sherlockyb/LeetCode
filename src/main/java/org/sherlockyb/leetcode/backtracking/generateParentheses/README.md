@@ -14,7 +14,7 @@ For example, given *n* = 3, a solution set is:
 ]
 ```
 
-### 思路（[代码](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/backtracking/generateParentheses/Solution.java)）
+### 思路（[代码](https://github.com/sherlockyb/LeetCode/blob/master/src/main/java/org/sherlockyb/leetcode/backtracking/generateParentheses/Solution.java)）
 
 回溯法+分支裁剪。分支裁剪的关键，就是定义各种约束条件，然后把不符合条件的分支裁掉，降低问题的可行解空间大小。
 

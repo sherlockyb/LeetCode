@@ -6,7 +6,7 @@ Implement atoi to convert a string to an integer.
 
 **Notes:** It is intended for this problem to be specified vaguely (ie, no given input specs). You are responsible to gather all the input requirements up front.
 
-#### 思路（[代码](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/string/stringToInteger/Solution.java)）
+#### 思路（[代码](https://github.com/sherlockyb/LeetCode/blob/master/src/main/java/org/sherlockyb/leetcode/string/stringToInteger/Solution.java)）
 
   字符串转整数，常规题。根据字符与'0'的ASCII码值的差得到对应数字的值，然后按位累加即可。
 

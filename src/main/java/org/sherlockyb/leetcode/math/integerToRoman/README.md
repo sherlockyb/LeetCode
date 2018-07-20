@@ -4,7 +4,7 @@ Given an integer, convert it to a roman numeral.
 
 Input is guaranteed to be within the range from 1 to 3999.
 
-#### 思路（[代码](https://github.com/sherlock-y/LeetCode/blob/master/src/main/java/org/sherlocky/leetcode/math/integerToRoman/Solution.java)）
+#### 思路（[代码](https://github.com/sherlockyb/LeetCode/blob/master/src/main/java/org/sherlockyb/leetcode/math/integerToRoman/Solution.java)）
 
 题目常规，搞清楚了罗马数字的体系就迎刃而解了。介绍如下，[参考](http://iask.sina.com.cn/b/1775817.html)：
 
