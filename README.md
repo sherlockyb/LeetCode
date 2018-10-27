@@ -31,3 +31,4 @@
 | 25 |[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[Java](src/main/java/org/sherlockyb/leetcode/linkedlist/reverseNodesInkGroup/Solution.java)|*O(n)*|*O(1)*|Hard|
 | 26 |[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[Java](src/main/java/org/sherlockyb/leetcode/array/removeDuplicatesFromSortedArray/Solution.java)|*O(n)*|*O(1)*|Easy|
 | 27 |[Remove Element](https://leetcode.com/problems/remove-element/description/)|[Java](src/main/java/org/sherlockyb/leetcode/array/removeElement/Solution.java)|*O(n)*|*O(1)*|Easy|
+| 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Java](src/main/java/org/sherlockyb/leetcode/string/implementStrStr/Solution.java)|*O(mxn)*|*O(1)*|Easy|
