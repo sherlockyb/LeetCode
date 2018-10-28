@@ -24,6 +24,7 @@ What should we return when `needle` is an empty string? This is a great question
 
 For the purpose of this problem, we will return 0 when `needle` is an empty string. This is consistent to C's [strstr()](http://www.cplusplus.com/reference/cstring/strstr/) and Java's [indexOf()](https://docs.oracle.com/javase/7/docs/api/java/lang/String.html#indexOf(java.lang.String)).
 
-#### 思路（[代码1](Solution.java)）
+#### 思路（[代码1](Solution.java)/[代码2](SolutionKmp.java)）
 
-### 算法一，暴力穷举
+##### 算法一，暴力穷举
+##### 算法二，经典的KMP
