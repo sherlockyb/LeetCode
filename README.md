@@ -34,3 +34,4 @@
 | 28 |[Implement strStr()](https://leetcode.com/problems/implement-strstr/description/)|[Java](src/main/java/org/sherlockyb/leetcode/string/implementStrStr/Solution.java)/[Java](src/main/java/org/sherlockyb/leetcode/string/implementStrStr/SolutionKmp.java)|*O(m\*n)*/*O(m+n)*|*O(n)*|Easy|
 | 29 |[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[Java](src/main/java/org/sherlockyb/leetcode/math/divideTwoIntegers/Solution.java)|*O(log_n_m)*|*O(1)*|Medium|
 | 30 |[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Java](src/main/java/org/sherlockyb/leetcode/string/substringWithConcatenationOfAllWords/Solution.java)|*O(len(s)\*n)*|*O(n)*|Hard|
+| 31 |[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Java](src/main/java/org/sherlockyb/leetcode/array/nextPermutation/Solution.java)|*O(n^2)*|*O(1)*|Medium|
