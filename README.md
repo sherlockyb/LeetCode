@@ -36,3 +36,4 @@
 | 30 |[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)|[Java](src/main/java/org/sherlockyb/leetcode/string/substringWithConcatenationOfAllWords/Solution.java)|*O(len(s)\*n)*|*O(n)*|Hard|
 | 31 |[Next Permutation](https://leetcode.com/problems/next-permutation/description/)|[Java](src/main/java/org/sherlockyb/leetcode/array/nextPermutation/Solution.java)|*O(n^2)*|*O(1)*|Medium|
 | 32 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Java](src/main/java/org/sherlockyb/leetcode/stack/longestValidParentheses/Solution.java)|*O(n^2)*|*O(1)*|Hard|
+| 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Java](src/main/java/org/sherlockyb/leetcode/array/searchInRotatedSortedArray/Solution.java)|*O(logn)*|*O(1)*|Medium|
