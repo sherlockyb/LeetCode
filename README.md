@@ -38,3 +38,4 @@
 | 32 |[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)|[Java](src/main/java/org/sherlockyb/leetcode/stack/longestValidParentheses/Solution.java)|*O(n^2)*|*O(1)*|Hard|
 | 33 |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[Java](src/main/java/org/sherlockyb/leetcode/array/searchInRotatedSortedArray/Solution.java)|*O(logn)*|*O(1)*|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](src/main/java/org/sherlockyb/leetcode/array/firstAndLastPositionInSortedArray/Solution.java)|*O(logn)*|*O(1)*|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](src/main/java/org/sherlockyb/leetcode/array/searchInsertPosition/Solution.java)|*O(logn)*|*O(1)*|Easy|
