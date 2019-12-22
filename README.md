@@ -40,3 +40,4 @@
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Java](src/main/java/org/sherlockyb/leetcode/array/firstAndLastPositionInSortedArray/Solution.java)|*O(logn)*|*O(1)*|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](src/main/java/org/sherlockyb/leetcode/array/searchInsertPosition/Solution.java)|*O(logn)*|*O(1)*|Easy|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](src/main/java/org/sherlockyb/leetcode/array/validSudoku/Solution.java)|-|*O(n)*|Medium|
+| 37 |[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](src/main/java/org/sherlockyb/leetcode/array/sudokuSolver/Solution.java)|-|*O(1)*|Hard|
