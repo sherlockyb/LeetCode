@@ -36,7 +36,7 @@ A solution set is:
 
 这种排列组合类的题，比较直接的思路就是暴力穷举+剪枝。
 
-具体思路：在加和组成target的加数中，candidates中每一个元素都可能出现0~target次，因此可以定义一个跟candidates同等大小的系数数组coefficients，数组中每一个元素，都从0~target逐渐遍历，所有求和等于target的组合都是符合条件的系数组合，找到这些系数组合，就能得到最终的加数组合列表。
+具体思路：在加和组成target的加数中，candidates中每一个元素都可能出现0到target次，因此可以定义一个跟candidates同等大小的系数数组coefficients，数组中每一个元素，都从0到target逐渐遍历，所有求和等于target的组合都是符合条件的系数组合，找到这些系数组合，就能得到最终的加数组合列表。
 
 思路是自然的，但代码如何实现呢？最坏的时间复杂度为*O(target^N)*，N是coefficients的大小。如果N是确定的，我们可以写N层嵌套循环，然后在循环的每一层判断当前子序列的求和是否达到target，如果超过target，就剪枝直接回溯到上层循环。
 
