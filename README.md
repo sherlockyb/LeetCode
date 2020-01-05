@@ -42,4 +42,4 @@
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](src/main/java/org/sherlockyb/leetcode/array/validSudoku/Solution.java)|-|*O(n)*|Medium|
 | 37 |[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](src/main/java/org/sherlockyb/leetcode/array/sudokuSolver/Solution.java)|-|*O(1)*|Hard|
 | 38 |[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](src/main/java/org/sherlockyb/leetcode/math/countAndSay/Solution.java)|*O(n^2)*|*O(1)*|Easy|
-| 39 |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](src/main/java/org/sherlockyb/leetcode/math/combinationSum/Solution.java)|*O(target^n)*|*O(1)*|Medium|
+| 39 |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](src/main/java/org/sherlockyb/leetcode/array/combinationSum)|*O(target^n)*|*O(1)*|Medium|
