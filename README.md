@@ -43,3 +43,8 @@
 | 37 |[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[Java](src/main/java/org/sherlockyb/leetcode/array/sudokuSolver)|-|*O(1)*|Hard|
 | 38 |[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](src/main/java/org/sherlockyb/leetcode/math/countAndSay)|*O(n^2)*|*O(1)*|Easy|
 | 39 |[Combination Sum](https://leetcode.com/problems/combination-sum/)|[Java](src/main/java/org/sherlockyb/leetcode/array/combinationSum)|*O(target^n)*|*O(1)*|Medium|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)|[Java](src/main/java/org/sherlockyb/leetcode/array/combinationSumII)|*O(2^n)*|*O(1)*|Medium|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Java](src/main/java/org/sherlockyb/leetcode/array/firstMissingPositive)|*O(n)*|*O(1)*|Hard|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](src/main/java/org/sherlockyb/leetcode/array/trappingRainWater)|*O(n\*logn)*|*O(1)*|Hard|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](src/main/java/org/sherlockyb/leetcode/array/multiplyStrings)|*O(m\*n)*|*O(m+n)*|Medium|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java](src/main/java/org/sherlockyb/leetcode/string/wildcardMatching)|*O(m\*n)*|*O(m\*n)*|Hard|
