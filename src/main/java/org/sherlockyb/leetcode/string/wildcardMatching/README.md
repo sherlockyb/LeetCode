@@ -42,6 +42,7 @@ Explanation: '?' matches 'c', but the second letter is 'a', which does not match
 - [x] **算法二，空间换时间，用DP代替递归回溯，避免重复计算，见[代码](Solution.java)**
 
   DP 的关键在于以下几点：
-    1、`dp[i][j]` 的含义要搞清楚
-    2、第一行（`dp[0][0...j]`）和第一列（`dp[0...i][0]`）的初始化
-    3、找到 `dp[i][j]` 与 `dp[i-1][j-1]`、`dp[i-1][j]`、`dp[i][j-1]` 的递推关系
+  
+  1. `dp[i][j]` 的含义要搞清楚
+  2. 第一行（`dp[0][0...j]`）和第一列（`dp[0...i][0]`）的初始化
+  3. 找到 `dp[i][j]` 与 `dp[i-1][j-1]`、`dp[i-1][j]`、`dp[i][j-1]` 的递推关系
