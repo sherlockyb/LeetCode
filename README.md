@@ -48,3 +48,4 @@
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](src/main/java/org/sherlockyb/leetcode/array/trappingRainWater)|*O(n\*logn)*|*O(1)*|Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](src/main/java/org/sherlockyb/leetcode/array/multiplyStrings)|*O(m\*n)*|*O(m+n)*|Medium|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java](src/main/java/org/sherlockyb/leetcode/string/wildcardMatching)|*O(m\*n)*|*O(m\*n)*|Hard|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](src/main/java/org/sherlockyb/leetcode/array/jumpGameII)|*O(n^2)*|*O(n)*|Medium|
