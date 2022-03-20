@@ -38,7 +38,11 @@ public class Solution {
         for (int i = start; i < nums.length; i++) {
             swap(nums, start, i);                       // 将元素nums[i]放置到start位置
             resolver(nums, start + 1, results);    // 继续填充后续位置
-            swap(nums, start, i);                       // 回溯，为选择下一个元素做准备
+            /**
+             * 回溯，将最初 start 位置的元素归位。但实际上这一步并不是必要的，只要确保[start, nums.length-1] 之间每个元素都往 start 位置放置过一次就是OK的，而nums数组
+             * 最初 start 位置的元素被置换到哪了，并不重要
+             */
+            swap(nums, start, i);
         }
     }
 

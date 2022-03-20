@@ -50,3 +50,4 @@
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)|[Java](src/main/java/org/sherlockyb/leetcode/string/wildcardMatching)|*O(m\*n)*|*O(m\*n)*|Hard|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](src/main/java/org/sherlockyb/leetcode/array/jumpGameII)|*O(n^2)*|*O(n)*|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](src/main/java/org/sherlockyb/leetcode/array/permutations)|*O(n!)*|*O(1)*|Medium|
+
