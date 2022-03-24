@@ -51,3 +51,4 @@
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)|[Java](src/main/java/org/sherlockyb/leetcode/array/jumpGameII)|*O(n^2)*|*O(n)*|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)|[Java](src/main/java/org/sherlockyb/leetcode/array/permutations)|*O(n!)*|*O(1)*|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)|[Java](src/main/java/org/sherlockyb/leetcode/array/permutationsII)|*O(n!)*|*O(1)*|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](src/main/java/org/sherlockyb/leetcode/array/rotateImage)|*O(n^2)*|*O(1)*|Medium|
