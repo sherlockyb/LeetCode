@@ -3,7 +3,7 @@ package org.sherlockyb.leetcode.array.groupAnagrams;
 import java.util.*;
 
 /**
- * @author biyang
+ * @author sherlockyb
  */
 public class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
