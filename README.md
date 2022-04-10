@@ -54,4 +54,4 @@
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](src/main/java/org/sherlockyb/leetcode/array/rotateImage)|*O(n^2)*|*O(1)*|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](src/main/java/org/sherlockyb/leetcode/array/groupAnagrams)|-|*O(n)*|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Java](src/main/java/org/sherlockyb/leetcode/math/powXN)|*O(n)/O(logn)*|*O(1)*|Medium|
-|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](src/main/java/org/sherlockyb/leetcode/backtracking/nQueens)|*O(n^2)*|*O(n^2)*|Hard|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Java](src/main/java/org/sherlockyb/leetcode/backtracking/nQueens)|*O(n^3)*|*O(n^2)*|Hard|
