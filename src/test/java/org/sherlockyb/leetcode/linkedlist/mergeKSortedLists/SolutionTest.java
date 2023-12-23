@@ -3,7 +3,7 @@ package org.sherlockyb.leetcode.linkedlist.mergeKSortedLists;
 import org.junit.Before;
 import org.junit.Test;
 import org.sherlockyb.leetcode.linkedlist.ListNode;
-import org.sherlockyb.leetcode.linkedlist.mergekSortedLists.Solution;
+import org.sherlockyb.leetcode.linkedlist.mergekSortedLists_22.Solution;
 
 /**
  * Created by yangbing on 2017/8/13.
